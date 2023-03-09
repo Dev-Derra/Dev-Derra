@@ -1,5 +1,13 @@
 ## Bem-vindo(a) ao perfil do Dev Derra 😁
 
+Olá, eu sou Gabriel
+
+Sou um estudante de análise e desenvolvimento de sistemas. Aqui no GitHub, você encontrará alguns dos meus projetos iniciais enquanto eu estou aprendendo e aplicando novas habilidades.
+
+Estou sempre buscando feedback e oportunidades para colaborar em projetos interessantes. Se você tiver alguma ideia ou projeto no qual eu possa ajudar, por favor, deixe-me saber!
+
+Obrigado por visitar o meu perfil e espero poder colaborar com a comunidade em breve!
+
  <div>
    <a href="https://github.com/Dev-Derra">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Derra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
