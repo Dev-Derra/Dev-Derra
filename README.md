@@ -2,7 +2,7 @@
 
 Olá, eu sou Gabriel
 
-Sou um estudante de análise e desenvolvimento de sistemas. Aqui no GitHub, você encontrará alguns dos meus projetos iniciais enquanto eu estou aprendendo e aplicando novas habilidades.
+Sou formado em análise e desenvolvimento de sistemas. Aqui no GitHub, você encontrará alguns dos meus projetos iniciais enquanto eu estou aprendendo e aplicando novas habilidades.
 
 Estou sempre buscando feedback e oportunidades para colaborar em projetos interessantes. Se você tiver alguma ideia ou projeto no qual eu possa ajudar, por favor, deixe-me saber!
 
